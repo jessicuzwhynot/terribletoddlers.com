@@ -11,12 +11,12 @@ theme = "hugo-minimalist-theme"
 
 
 [params]
-    site_author = "John Doe"
-    site_description = "The awesome blog of John Doe."
-    location = "Earth"
+    site_author = "James Chappell"
+    site_description = "The signs of terrible parenting"
+    location = "Karma"
     # Link custom assets relative to /static
-    avatar = "img/profile-image.png"
-    header_background = "img/desk.jpg"
+    avatar = "img/IMG_1841.jpeg"
+    header_background = "img/face-palm.jpg"
     header_title = "Stories of my Terrifying Toddler"
     copyright = "Powered by [Hugo](http://gohugo.io)."
     custom_css = []

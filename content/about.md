@@ -3,6 +3,7 @@ title: "About the instigating father of a 2 year old"
 date: 2018-04-10T19:39:10-04:00
 
 ---
+![about me logo](/img/flowchart.jpg)
 
 I'm a parent of a two year old, and I was pushed into hugo,(not the hurricane) by a sexy mentor of mine.
 
